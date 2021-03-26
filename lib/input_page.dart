@@ -13,7 +13,6 @@ class _InputPageState extends State<InputPage> {
         title: Text('BMI Calculator'),
       ),
       body: Column(
-        mainAxisAlignment: MainAxisAlignment.spaceEvenly,
         children: [
           Expanded(
             child: Row(
